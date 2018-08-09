@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HJPodTestLib_Tests' do
+  pod 'HJPodTestLib', :path => '../'
+  
+  
+end
